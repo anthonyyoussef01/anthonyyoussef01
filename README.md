@@ -1,3 +1,19 @@
+<style>
+    .styled-banner {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        border-radius: 3px;
+        transition: transform .2s;
+    }
+
+    .styled-banner:hover {
+        transform: scale(1.05);
+    }
+</style>
+
+<div align="center">
+    <img class="styled-banner" src="Banner.png" alt="This is a more descriptive alternative text" title="This is the tooltip text" width="100%" height="auto">
+</div>
+
 ### Hi there 👋
 
 - 🔭 I’m currently unemployed, but working on some personal projects. Mainly, [Urban Dictionary AR (QAMOUS)](https://github.com/anthonyyoussef01/urban-dictionary-ar)
