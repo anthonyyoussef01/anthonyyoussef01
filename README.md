@@ -1,18 +1,4 @@
-<style>
-    .styled-banner {
-        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-        border-radius: 3px;
-        transition: transform .2s;
-    }
-
-    .styled-banner:hover {
-        transform: scale(1.05);
-    }
-</style>
-
-<div align="center">
-    <img class="styled-banner" src="Banner.png" alt="This is a more descriptive alternative text" title="This is the tooltip text" width="100%" height="auto">
-</div>
+<img class="styled-banner" src="Banner.png" alt="This is a more descriptive alternative text" width="100%" >
 
 ### Hi there 👋
 
