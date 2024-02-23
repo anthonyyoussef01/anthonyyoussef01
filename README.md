@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently unemployed, but working on some personal projects. Mainly, QAMOUS ([Front-End](https://github.com/anthonyyoussef01/urban-dictionary-ar), [Back-End](https://github.com/anthonyyoussef01/urban-dictionary-ar-backend), [Data](https://github.com/anthonyyoussef01/urban-dictionary-ar-data-scraping))
-- 🌱 I’m currently learning NodeJS, NestJS, and Rust.
+- 🌱 I’m currently learning NodeJS, NestJS, and Rust
 - 🤔 I’m looking for help with my Qamous Project under the repositories with names starting with "urban-dictionary-ar"
 - 💬 Ask me about my projects and experience
 - 📫 How to reach me: go to my LinkedIn profile and message me there
