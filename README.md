@@ -52,6 +52,7 @@
 
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 **Styling**:
 
@@ -62,6 +63,7 @@
 
 ![html5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-%23008000.svg?style=for-the-badge&logo=xml&logoColor=white)
+![XHTML](https://img.shields.io/badge/XHTML-%23E44D27.svg?style=for-the-badge&logo=xhtml&logoColor=white)
 
 
 ### SQL:
@@ -79,6 +81,7 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=webstorm&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-000000.svg?style=for-the-badge&logo=clion&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white)
 
 **Microsoft IDEs**:
 
