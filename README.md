@@ -94,6 +94,7 @@
 ![AndroidStudio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white)
 ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-2B2B2B?style=for-the-badge&logo=code::blocks&logoColor=white)
+![DrRacket](https://img.shields.io/badge/DrRacket-9F7A3C?style=for-the-badge&logo=dr-racket&logoColor=white)
 
 **Data Analysis and Visualization IDEs**:
 
