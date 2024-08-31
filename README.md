@@ -2,6 +2,7 @@
 
 ### Hi there 👋
 
+- 🎓 I’m currently taking a master's in AI, so if my code starts writing itself, you'll know why!
 - 🔭 Open to Software Engineering positions where I learn and grow, but I'm current working on some personal projects. Mainly, QAMOUS ([Front-End](https://github.com/anthonyyoussef01/urban-dictionary-ar), [Back-End](https://github.com/anthonyyoussef01/urban-dictionary-ar-backend), [Data](https://github.com/anthonyyoussef01/urban-dictionary-ar-data-scraping))
 - 🌱 I’m currently learning NextJS, Tailwind, Rust, and some COBOL!
 - 🤔 I’m looking for help with my Qamous Project so if you're interested, please reach out to me
